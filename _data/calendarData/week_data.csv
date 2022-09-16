@@ -1,0 +1,16 @@
+visible,week,title,lec_a_date,lec_a_makeup,lec_a_topic,lec_a_link,quiz_a_link,quiz_a_sol_link,lab_a_makeup,lab_a_date,lab_a,lab_a_link,lab_a_sol_link,lab_a_deadline_time,lec_b_date,lec_b_makeup,lec_b_topic,lec_b_link,quiz_b_link,quiz_b_sol_link,lab_b_date,lab_b_makeup,lab_b,lab_b_link,lab_b_sol_link,lab_b_deadline_time,assignment_date,assignment_no,assignment_link,assignment_sol_link,assign_deadline_time,announcement_date,notice_date,notice,notice_b_date,notice_b
+n,Week 1,CE100T Test,Mar 8,y,CE100T Test Lec,,,,n,Mar 8,CE100T Test Lab ,,,11:45 AM,Mar 10,y,Test,,,,Mar 10,n,Test,,,11:45 AM,Mar 13,Test assign,,,11:59 PM,Mar 7,,Test Notice,,Test Notice
+n,Week 2,CE100T Test,Mar 15,n,CE100T Test Lec,,,,y,Mar 15,CE100T Test Lab ,,,11:45 AM,Mar 17,n,Test,,,,Mar 17,y,Test,,,11:45 AM,Mar 17,Test assign,,,11:59 PM,Mar 21,Mar 21,,Mar 23,
+n,Week 3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+n,Week 4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+n,Week 5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+n,Week 6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+n,Week 7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+n,Week 8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+n,Week 9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+n,Week 10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+n,Week 11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+n,Week 12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+n,Week 13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+n,Week 14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+n,Week 15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

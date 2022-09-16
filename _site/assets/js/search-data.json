@@ -1,0 +1,248 @@
+{"0": {
+    "doc": "Announcements",
+    "title": "Announcements",
+    "content": " ",
+    "url": "http://localhost:4000/announcements/",
+    "relUrl": "/announcements/"
+  },"1": {
+    "doc": "Attendance",
+    "title": "Attendance",
+    "content": ". | Green for those Students having 100% Attendance | Yellow for those students that can be terminated if they don’t improve their attendance | Red for Terminated Students | . | Registration No. Name Theory Attendance Lab Attendance | BSCE20015 Hafiz Noor Ud Deen Shafique 0% 0% | BSCE21025 Muhammad Shaaf Ali 67% 60% | BSCE21040 Maryam Shahid 50% 80% | BSCE21043 Amal Awan 67% 60% | BSCE22001 Muhammad Miqdad Ahmad 100% 100% | BSCE22002 Zaid Rasool 0% 20% | BSCE22003 Ahmad Waleed Akhtar 100% 100% | BSCE22004 Murtaza Khalid 100% 100% | BSCE22005 Muhammad Mateen Amjad 100% 100% | BSCE22006 Muhammad Arham Ashfaque 17% 100% | BSCE22007 Muhammad Arham 100% 100% | BSCE22008 Muhammad Muaz Saleem 0% 0% | BSCE22009 Abdullah Farrukh Sanani 100% 100% | BSCE22010 Muhammad Shujat 0% 0% | BSCE22011 Fatima Waseem 100% 100% | BSCE22012 Aitsam Atif 50% 100% | BSCE22013 Muhammad Saad Ramzan 100% 100% | BSCE22014 Uzair Altaf 0% 0% | BSCE22015 Muneeb Ur Rehman 67% 60% | BSCE22016 Muhammad Irtaza Mehdi 0% 0% | BSCE22017 Hadia Ahmad 100% 100% | BSCE22018 Maheen 100% 100% | BSCE22019 Muhammad Faizan Bashir 0% 0% | BSCE22020 Ariba Mumtaz 100% 80% | BSCE22021 Muhammad Saad 100% 100% | BSCE22022 Zahra Shahid 0% 0% | BSCE22023 Muhammad Hassan Shahid 67% 100% | BSCE22024 Maryam Batool 33% 40% | BSCE22025 Huzaifa Khan 100% 100% | BSCE22026 Syad Kifayat Ur Rahman 100% 100% | BSCE22027 Shafia Sajid Munawar 0% 0% | BSCE22028 Syeda Maham Batool 83% 100% | BSCE22029 Muhammad Moiz Ahmad 50% 40% | BSCE22030 Syed Muhammad Atif 100% 100% | BSCE22031 Maryam Aftab 83% 80% | BSCE22032 Umair Ul Hassan 100% 100% | BSCE22033 Ayesha Butt 0% 0% | BSCE22034 Muhammad Abdullah Chaudary 100% 100% | BSCE22035 Alishba Zahid 100% 100% | BSCE22036 Shawaiz Asghar 100% 100% | BSCE22037 Hoor Ul Ain Amir 67% 60% | BSCE22038 0% 0% | BSCE22039 Muhammad Bilal 100% 80% | BSCE22040 Abdullah Zahid 100% 80% | BSCE22041 Muhammad Asif 100% 60% | BSCE22042 Muhammad Khizar 100% 100% | BSCE22044 Muhammad Hassan 67% 80% | BSCE22045 Usman Shahir 83% 60% | BSCE22046 Abdul Rafay 67% 60% | BSCE22047 Qazi Talha Ayub 67% 60% | BSCE22048 Muhammad Haseeb 33% 80% | BSCE22050 Abdullah Tahir 17% 20% | Zainab Ejaz #N/A% #N/A% | BSCE22051 Abdul Aziz 33% 20% | . ",
+    "url": "http://localhost:4000/attendance/",
+    "relUrl": "/attendance/"
+  },"2": {
+    "doc": "Calendar",
+    "title": "Calendar",
+    "content": " ",
+    "url": "http://localhost:4000/calendar/",
+    "relUrl": "/calendar/"
+  },"3": {
+    "doc": "Details",
+    "title": "Course Details",
+    "content": ". ",
+    "url": "http://localhost:4000/pages/details/#course-details",
+    "relUrl": "/pages/details/#course-details"
+  },"4": {
+    "doc": "Details",
+    "title": "About",
+    "content": "This introductory course is aimed at the students with little or no programming experience, and it introduces students to the basics of computers and programming. On one hand they will learn basic topics of computing and usage, while on the other hand they will be exposed to programming language(s). By the end of course the student should be capable of programming in at least one programming language. ",
+    "url": "http://localhost:4000/pages/details/#about",
+    "relUrl": "/pages/details/#about"
+  },"5": {
+    "doc": "Details",
+    "title": "Details",
+    "content": " ",
+    "url": "http://localhost:4000/pages/details/",
+    "relUrl": "/pages/details/"
+  },"6": {
+    "doc": "Page of Fame",
+    "title": "Students",
+    "content": "A listing of all students who have performed best during each week . ",
+    "url": "http://localhost:4000/famepage/#students",
+    "relUrl": "/famepage/#students"
+  },"7": {
+    "doc": "Page of Fame",
+    "title": "Weekly Best Performer",
+    "content": "No One . Week 1 . ",
+    "url": "http://localhost:4000/famepage/#weekly-best-performer",
+    "relUrl": "/famepage/#weekly-best-performer"
+  },"8": {
+    "doc": "Page of Fame",
+    "title": "Overall Top 3 Performers",
+    "content": "No One . ",
+    "url": "http://localhost:4000/famepage/#overall-top-3-performers",
+    "relUrl": "/famepage/#overall-top-3-performers"
+  },"9": {
+    "doc": "Page of Fame",
+    "title": "Page of Fame",
+    "content": " ",
+    "url": "http://localhost:4000/famepage/",
+    "relUrl": "/famepage/"
+  },"10": {
+    "doc": "Computing Fundamentals and Programming CE",
+    "title": "Fall 2022 - CE100 - CFP",
+    "content": "Announcements . ",
+    "url": "http://localhost:4000/#fall-2022---ce100---cfp",
+    "relUrl": "/#fall-2022---ce100---cfp"
+  },"11": {
+    "doc": "Computing Fundamentals and Programming CE",
+    "title": "Computing Fundamentals &amp; Programming CE",
+    "content": "This introductory course is aimed at the students with little or no programming experience, and it introduces students to the basics of computers and programming. On one hand they will learn basic topics of computing and usage, while on the other hand they will be exposed to programming language(s). By the end of course the student should be capable of programming in at least one programming language. ",
+    "url": "http://localhost:4000/#computing-fundamentals--programming-ce",
+    "relUrl": "/#computing-fundamentals--programming-ce"
+  },"12": {
+    "doc": "Computing Fundamentals and Programming CE",
+    "title": "Computing Fundamentals and Programming CE",
+    "content": " ",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  },"13": {
+    "doc": "Key & Policy",
+    "title": "Key and Course Policy",
+    "content": " ",
+    "url": "http://localhost:4000/pages/details/key/#key-and-course-policy",
+    "relUrl": "/pages/details/key/#key-and-course-policy"
+  },"14": {
+    "doc": "Key & Policy",
+    "title": "Table of contents",
+    "content": ". | Key: | Attendance: | Attentiveness: | Time Management: | We Attitude: | Avoid Plagiarism: | Correlation in Components: | Crystal Clear Concepts: | . ",
+    "url": "http://localhost:4000/pages/details/key/#table-of-contents",
+    "relUrl": "/pages/details/key/#table-of-contents"
+  },"15": {
+    "doc": "Key & Policy",
+    "title": "Key:",
+    "content": ". ",
+    "url": "http://localhost:4000/pages/details/key/#key",
+    "relUrl": "/pages/details/key/#key"
+  },"16": {
+    "doc": "Key & Policy",
+    "title": "Attendance:",
+    "content": ". | Attendance will be marked in first 5 mins of the lecture, and anyone coming after attendance is marked, he/she will be considered absent. | University gives you 15 mins break between lectures, therefore consider my lectures to be 15 mins early if you are in habit of being late. | This 20% margin is to entertain all valid scenarios in life, anyone going below 80% attendance will not be allowed to sit in the examinations . | . ",
+    "url": "http://localhost:4000/pages/details/key/#attendance",
+    "relUrl": "/pages/details/key/#attendance"
+  },"17": {
+    "doc": "Key & Policy",
+    "title": "Attentiveness:",
+    "content": ". | You must stay attentive during the lecture, especially when instructor is delivering the concept. Distraction caused to instructor can result in deduction of one absolute mark . Possible distraction to instructor is either you are sleeping during the lecture or talking with class fellows. | You are encouraged to ask questions related to topic or previous topics that we have covered so far, this will help you in grasping the concepts during the lecture time. | . ",
+    "url": "http://localhost:4000/pages/details/key/#attentiveness",
+    "relUrl": "/pages/details/key/#attentiveness"
+  },"18": {
+    "doc": "Key & Policy",
+    "title": "Time Management:",
+    "content": ". | Semester System is different from yearly system, here you have to grasp during the lectures, if you delay things till the end of semester, you will possibly be in trouble. | Since you are studying multiple courses during the semester, therefore managing other courses is your own responsibility. | From this course perspective keep in mind that there will / can be a quiz in every class . | There will be two lab tasks each week , which will have deadline of the lab ending timings . In case you are unable to complete tasks with in lab timings, you can still submit till the end of day i.e. 11:59 pm, with 75% maximum marks . | To lab to be marked, you must bring printed submission of the task in immediate next lab else it will be marked zero . | Every week you will get an assignment with deadline of 11:59 pm of Sunday night. No late submissions allowed. | Therefore, it is suggested you create proper time slots for the course to avoid any inconvenience. | . ",
+    "url": "http://localhost:4000/pages/details/key/#time-management",
+    "relUrl": "/pages/details/key/#time-management"
+  },"19": {
+    "doc": "Key & Policy",
+    "title": "We Attitude:",
+    "content": ". | We are not in race with each other, therefore helping fellow members will not only help them in learning, but it will enhance your concepts and take you further. Therefore leave ‘ME” attitude of keeping things to yourself and adopt “WE” attitude . | Sharing solutions doesn’t come under “WE” attitude, as that won’t enable your friend or class fellows. That is actually a disservice to them. Enable them by explaining some relevant but different problems than the one assigned in lab or assignment to you. | . ",
+    "url": "http://localhost:4000/pages/details/key/#we-attitude",
+    "relUrl": "/pages/details/key/#we-attitude"
+  },"20": {
+    "doc": "Key & Policy",
+    "title": "Avoid Plagiarism:",
+    "content": ". | Plagiarism is presenting work as your submission when it was not actually produced by you . This includes copying fellows work, getting work done by seniors, family members or through outsourcing. In all above scenarios we will trace and penalise. | In case plagiarism is among your class fellows, both will get same penalty, irrespective of your participation as sharer or receiver. | So to detect this, not only we compare your code, but will also take viva or quiz , where we will ask to reproduce same concepts on a different problem, unable to justify, could lead to zero or greater penalty. | Case count is accumulative for both theory &amp; lab. | First such case of plagiarism detection will get you (Theory &amp; Lab) -5% absolute penalty . | Second such occurrence will result in -10% absolute penalty in theory and -20% absolute penalty in lab . | Third occurrence will result in disciplinary committee , potentially leading to F grade(s). | If any favour of removing few bad assignments or quizzes is introduced by the instructor at the end of the course, people with even single plagiarism case won’t qualify for it. | . ",
+    "url": "http://localhost:4000/pages/details/key/#avoid-plagiarism",
+    "relUrl": "/pages/details/key/#avoid-plagiarism"
+  },"21": {
+    "doc": "Key & Policy",
+    "title": "Correlation in Components:",
+    "content": ". | It has been observed that there is a correlation among results, as in if you are performing well in submission based tasks (Assignments, projects &amp; lab tasks) , so you should be able to earn similar marks with some small deviation in evaluations (quizzes &amp; exams) . In case if the submission based marks are more than reasonable in comparison, your submission based marks will be replaced by evaluation based marks. | . ",
+    "url": "http://localhost:4000/pages/details/key/#correlation-in-components",
+    "relUrl": "/pages/details/key/#correlation-in-components"
+  },"22": {
+    "doc": "Key & Policy",
+    "title": "Crystal Clear Concepts:",
+    "content": ". | In semester system every lecture / topic is connected to next topic, similarly every course is connected to next course. If you don’t keep your concepts clear, you might not only suffer in the respective course but that deficiency might carry on for the complete chain of courses. | Forget about rote learning, focus on concepts, understanding and skills. | If you keep discipline and ethics mentioned above, with eagerness to learn, you have In sha Allah a very bright future ahead. Happy Learning . :) | . ",
+    "url": "http://localhost:4000/pages/details/key/#crystal-clear-concepts",
+    "relUrl": "/pages/details/key/#crystal-clear-concepts"
+  },"23": {
+    "doc": "Key & Policy",
+    "title": "Key & Policy",
+    "content": " ",
+    "url": "http://localhost:4000/pages/details/key/",
+    "relUrl": "/pages/details/key/"
+  },"24": {
+    "doc": "Outlines",
+    "title": "Outlines",
+    "content": ". Both course outlines are tentative, and can be modified based on the students learning capabilities and response based on progress. ",
+    "url": "http://localhost:4000/pages/details/outlines/",
+    "relUrl": "/pages/details/outlines/"
+  },"25": {
+    "doc": "Outlines",
+    "title": "Theory",
+    "content": "Tentative Theory Course Outline . ",
+    "url": "http://localhost:4000/pages/details/outlines/#theory",
+    "relUrl": "/pages/details/outlines/#theory"
+  },"26": {
+    "doc": "Outlines",
+    "title": "Lab",
+    "content": "Tentative Lab Course Outline . ",
+    "url": "http://localhost:4000/pages/details/outlines/#lab",
+    "relUrl": "/pages/details/outlines/#lab"
+  },"27": {
+    "doc": "Parts",
+    "title": "Parts",
+    "content": ". All programming courses will have two parts (Theory &amp; Lab), these both are graded and evaluated separately, therefore performance in both is required. Breakdown of the percentage for each part of the course is as following: . ",
+    "url": "http://localhost:4000/pages/details/parts/",
+    "relUrl": "/pages/details/parts/"
+  },"28": {
+    "doc": "Parts",
+    "title": "Theory",
+    "content": ". ",
+    "url": "http://localhost:4000/pages/details/parts/#theory",
+    "relUrl": "/pages/details/parts/#theory"
+  },"29": {
+    "doc": "Parts",
+    "title": "Lab",
+    "content": ". ",
+    "url": "http://localhost:4000/pages/details/parts/#lab",
+    "relUrl": "/pages/details/parts/#lab"
+  },"30": {
+    "doc": "Schedule",
+    "title": "Weekly Schedule",
+    "content": ". | 8:00 AM | 8:30 AM | 9:00 AM | 9:30 AM | 10:00 AM | 10:30 AM | 11:00 AM | 11:30 AM | 12:00 PM | 12:30 PM | 1:00 PM | 1:30 PM | 2:00 PM | 2:30 PM | 3:00 PM | 3:30 PM | 4:00 PM | 4:30 PM | 5:00 PM | 5:30 PM | . | ",
+    "url": "http://localhost:4000/schedule/#weekly-schedule",
+    "relUrl": "/schedule/#weekly-schedule"
+  },"31": {
+    "doc": "Schedule",
+    "title": "Monday",
+    "content": "| ",
+    "url": "http://localhost:4000/schedule/",
+    "relUrl": "/schedule/"
+  },"32": {
+    "doc": "Schedule",
+    "title": "Tuesday",
+    "content": "| ",
+    "url": "http://localhost:4000/schedule/",
+    "relUrl": "/schedule/"
+  },"33": {
+    "doc": "Schedule",
+    "title": "Wednesday",
+    "content": ". | Lecture 8:00 AM–09:30 AM Embedded Lab Level 6 | Lab 09:30 AM–11:00 AM Embedded Lab Level 6 | . | ",
+    "url": "http://localhost:4000/schedule/",
+    "relUrl": "/schedule/"
+  },"34": {
+    "doc": "Schedule",
+    "title": "Thursday",
+    "content": "| ",
+    "url": "http://localhost:4000/schedule/",
+    "relUrl": "/schedule/"
+  },"35": {
+    "doc": "Schedule",
+    "title": "Friday",
+    "content": ". | Lecture 8:00 AM–09:30 AM Embedded Lab Level 6 | Lab 09:30 AM–11:00 AM Embedded Lab Level 6 | . | . Book UBS Appointment Book TA Appointment . ",
+    "url": "http://localhost:4000/schedule/",
+    "relUrl": "/schedule/"
+  },"36": {
+    "doc": "Schedule",
+    "title": "Schedule",
+    "content": " ",
+    "url": "http://localhost:4000/schedule/",
+    "relUrl": "/schedule/"
+  },"37": {
+    "doc": "Staff",
+    "title": "Staff",
+    "content": " ",
+    "url": "http://localhost:4000/staff/",
+    "relUrl": "/staff/"
+  },"38": {
+    "doc": "Staff",
+    "title": "Instructor",
+    "content": "Usama Bin Shakeel 3 . ubs@itu.edu.pk . ",
+    "url": "http://localhost:4000/staff/#instructor",
+    "relUrl": "/staff/#instructor"
+  },"39": {
+    "doc": "Staff",
+    "title": "Teaching Assistants",
+    "content": "Aqsa Khalid . msds19046@itu.edu.pk . Nadir Abbas . nadir.abbas@itu.edu.pk . ",
+    "url": "http://localhost:4000/staff/#teaching-assistants",
+    "relUrl": "/staff/#teaching-assistants"
+  },"40": {
+    "doc": "Tools",
+    "title": "Tools",
+    "content": ". Guide for Tools Reading Material for Github . ",
+    "url": "http://localhost:4000/pages/details/tools/",
+    "relUrl": "/pages/details/tools/"
+  }
+}

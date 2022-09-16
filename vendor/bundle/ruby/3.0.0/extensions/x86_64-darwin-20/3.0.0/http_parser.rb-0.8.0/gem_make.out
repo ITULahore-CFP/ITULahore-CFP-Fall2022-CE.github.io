@@ -1,0 +1,16 @@
+current directory: /Volumes/DATA/WajahatAli/UBS_Dev/ITULahore-OOP.github.io/vendor/bundle/ruby/3.0.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+/Users/granjur/.rvm/rubies/ruby-3.0.0/bin/ruby -I /Users/granjur/.rvm/rubies/ruby-3.0.0/lib/ruby/3.0.0 -r ./siteconf20220905-89938-zfzqgu.rb extconf.rb
+creating Makefile
+
+current directory: /Volumes/DATA/WajahatAli/UBS_Dev/ITULahore-OOP.github.io/vendor/bundle/ruby/3.0.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make "DESTDIR=" clean
+
+current directory: /Volumes/DATA/WajahatAli/UBS_Dev/ITULahore-OOP.github.io/vendor/bundle/ruby/3.0.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make "DESTDIR="
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.bundle
+
+current directory: /Volumes/DATA/WajahatAli/UBS_Dev/ITULahore-OOP.github.io/vendor/bundle/ruby/3.0.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 ruby_http_parser.bundle ./.gem.20220905-89938-omzc13
