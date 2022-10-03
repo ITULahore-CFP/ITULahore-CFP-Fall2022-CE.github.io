@@ -1,5 +1,5 @@
 //url contains applink share through app script deployment
-const url = 'https://script.google.com/macros/s/AKfycbxJALUcP7FWU9gI8-spf4n3yFXYluQ99c828_YyDBxR3YSVGI-vJoCoJbkw5uWCy0ba/exec';
+const url = 'https://script.google.com/macros/s/AKfycbzaNA8x0tTlm6gYDMC9V3SdQG66uiVxZEXi3xfATzbyrBx5RpkvZ6Sd6ZvLCankKDjQtg/exec';
 const sheet = "week_data";
 const loading = document.getElementById("loader");
 const newURL = url + '?data=' + sheet;
