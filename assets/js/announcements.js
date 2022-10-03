@@ -1,5 +1,5 @@
 //url contains applink share through app script deployment
-const url = 'https://script.google.com/macros/s/AKfycbzaNA8x0tTlm6gYDMC9V3SdQG66uiVxZEXi3xfATzbyrBx5RpkvZ6Sd6ZvLCankKDjQtg/exec';
+const url = 'https://script.google.com/macros/s/AKfycbxJALUcP7FWU9gI8-spf4n3yFXYluQ99c828_YyDBxR3YSVGI-vJoCoJbkw5uWCy0ba/exec';
 const sheet = "week_data";
 const loading = document.getElementById("loader");
 const newURL = url + '?data=' + sheet;
@@ -32,9 +32,9 @@ function createContent(item) {
         <h2>${item.week} - Announcement</h2>
         <span class="announcement-meta">${item.announcement_date} &middot; 0 min read</span>
         <ol style="margin: 8px 0px 0px">
-            ${item.lab_a !== "n" || item.lab_a !== "" ? `<li>${item.week} ${item.lab_a} : Deadline <span style="color: #7253ed; font-style: italic "> ${item.lec_a_date}, ${item.lab_a_deadline_time}. </span> </li>` : ""}
-            ${item.lab_b !== "n" || item.lab_b !== "" ? `<li>${item.week} ${item.lab_b} : Deadline <span style="color: #7253ed; font-style: italic "> ${item.lec_b_date}, ${item.lab_b_deadline_time}. </span> </li>` : ""}
-            ${item.assignment_no !== "n" || item.assignment_no !== "" ?`<li>${item.week} ${item.assignment_no} : Deadline <span style="color: #7253ed; font-style: italic "> ${item.assignment_date}, ${item.assign_deadline_time}. </span> </li>` : "" }
+            ${item.lab_a == "n" || item.lab_a == "" ? "" : `<li>${item.week} ${item.lab_a} : Deadline <span style="color: #7253ed; font-style: italic "> ${item.lec_a_date}, ${item.lab_a_deadline_time}. </span> </li>`}
+            ${item.lab_b == "n" || item.lab_b == "" ? "" : `<li>${item.week} ${item.lab_b} : Deadline <span style="color: #7253ed; font-style: italic "> ${item.lec_b_date}, ${item.lab_b_deadline_time}. </span> </li>`}
+            ${item.assignment_no == "n" || item.assignment_no == "" ? "" : `<li>${item.week} ${item.assignment_no} : Deadline <span style="color: #7253ed; font-style: italic "> ${item.assignment_date}, ${item.assign_deadline_time}. </span> </li>`}
             <li> Quiz in both lectures</li>
             <li> Details of them are available in calendar section</li>
         </ol>
