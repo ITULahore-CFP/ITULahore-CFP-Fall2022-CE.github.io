@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Attendance
+nav_order: 4
 description: Attendance Details
 ---
 <link rel="stylesheet" href="/assets/css/attendance.css">

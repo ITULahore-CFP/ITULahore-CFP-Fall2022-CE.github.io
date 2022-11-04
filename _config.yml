@@ -18,7 +18,7 @@ tagline: Fall 2022 - CE100 - CFP
 description: This introductory course is aimed at the students with little or no programming experience, and it introduces students to the basics of computers and programming. On one hand they will learn basic topics of computing and usage, while on the other hand they will be exposed to programming language(s). By the end of course the student should be capable of programming in at least one programming language.
 author: Usama Bin Shakeel
 baseurl: '/' # the subpath of your site, e.g. /blog
-url: 'https://fall2022-ce100.ubs.dev/' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://fall2022-ce100.ubs.dev' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 logo: "/assets/images/ubs-itu.png"
 exclude: [vendor]
