@@ -1,23 +1,25 @@
 //url contains applink share through app script deployment
+
 const url = 'https://script.google.com/macros/s/AKfycbzaNA8x0tTlm6gYDMC9V3SdQG66uiVxZEXi3xfATzbyrBx5RpkvZ6Sd6ZvLCankKDjQtg/exec';
+
 const sheet = "week_data";
 const loading = document.getElementById("loader");
 const newURL = url + '?data=' + sheet;
 loadData();
-// console.log("newURL",newURL)
 function loadData() {
     fetch(newURL).then((rep) => rep.json()).then((data) => {
         loading.remove();
-        // console.log("this is somethins", data.data.map(e => e))
         const listData = data.data;
         mapThroughData(listData)
     })
 }
 
 function mapThroughData(data) {
-    // console.log("data inside mapThroughData 23:::", data)
-    data.map(item => {
-        createContent(item)
+    const arrayData = [];
+    data.reverse().map(item => {
+        if (item.visible == "y"){
+            createContent(item)
+        }
     })
 }
 

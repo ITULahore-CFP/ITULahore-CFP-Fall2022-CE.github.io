@@ -23,7 +23,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>Attendance | Computing Fundamentals &amp; Programming CE</title>
+<title>Attendance | Computing Fundamentals And Programming</title>
 <meta name="generator" content="Jekyll v3.9.2" />
 <meta property="og:title" content="Attendance" />
 <meta name="author" content="Usama Bin Shakeel" />
@@ -32,7 +32,7 @@
 <meta property="og:description" content="Attendance Details" />
 <link rel="canonical" href="http://localhost:4000/attendance/" />
 <meta property="og:url" content="http://localhost:4000/attendance/" />
-<meta property="og:site_name" content="Computing Fundamentals &amp; Programming CE" />
+<meta property="og:site_name" content="Computing Fundamentals And Programming" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="Attendance" />
@@ -91,7 +91,7 @@
     </div>
     <nav role="navigation" aria-label="Main" id="site-nav" class="site-nav">
       
-        <ul class="nav-list"><li class="nav-list-item"><a href="http://localhost:4000/announcements/" class="nav-list-link">Announcements</a></li><li class="nav-list-item"><a href="http://localhost:4000/calendar/" class="nav-list-link">Calendar</a></li><li class="nav-list-item"><a href="http://localhost:4000/schedule/" class="nav-list-link">Schedule</a></li><li class="nav-list-item active"><a href="http://localhost:4000/attendance/" class="nav-list-link active">Attendance</a></li><li class="nav-list-item"><a href="#" class="nav-list-expander"><svg viewBox="0 0 24 24"><use xlink:href="#svg-arrow-right"></use></svg></a><a href="http://localhost:4000/pages/details/" class="nav-list-link">Details</a><ul class="nav-list "><li class="nav-list-item "><a href="http://localhost:4000/pages/details/parts/" class="nav-list-link">Parts</a></li><li class="nav-list-item "><a href="http://localhost:4000/pages/details/outlines/" class="nav-list-link">Outlines</a></li><li class="nav-list-item "><a href="http://localhost:4000/pages/details/key/" class="nav-list-link">Key & Policy</a></li><li class="nav-list-item "><a href="http://localhost:4000/pages/details/tools/" class="nav-list-link">Tools</a></li></ul></li><li class="nav-list-item"><a href="http://localhost:4000/famepage/" class="nav-list-link">Page of Fame</a></li><li class="nav-list-item"><a href="http://localhost:4000/staff/" class="nav-list-link">Staff</a></li></ul>
+        <ul class="nav-list"><li class="nav-list-item"><a href="http://localhost:4000/announcements/" class="nav-list-link">Announcements</a></li><li class="nav-list-item"><a href="http://localhost:4000/StudentProgressReport/" class="nav-list-link">Student Progress</a></li><li class="nav-list-item"><a href="http://localhost:4000/calendar/" class="nav-list-link">Calendar</a></li><li class="nav-list-item"><a href="http://localhost:4000/schedule/" class="nav-list-link">Schedule</a></li><li class="nav-list-item active"><a href="http://localhost:4000/attendance/" class="nav-list-link active">Attendance</a></li><li class="nav-list-item"><a href="#" class="nav-list-expander"><svg viewBox="0 0 24 24"><use xlink:href="#svg-arrow-right"></use></svg></a><a href="http://localhost:4000/pages/details/" class="nav-list-link">Details</a><ul class="nav-list "><li class="nav-list-item "><a href="http://localhost:4000/pages/details/parts/" class="nav-list-link">Parts</a></li><li class="nav-list-item "><a href="http://localhost:4000/pages/details/outlines/" class="nav-list-link">Outlines</a></li><li class="nav-list-item "><a href="http://localhost:4000/pages/details/key/" class="nav-list-link">Key & Policy</a></li><li class="nav-list-item "><a href="http://localhost:4000/pages/details/tools/" class="nav-list-link">Tools</a></li></ul></li><li class="nav-list-item"><a href="http://localhost:4000/famepage/" class="nav-list-link">Page of Fame</a></li><li class="nav-list-item"><a href="http://localhost:4000/staff/" class="nav-list-link">Staff</a></li></ul>
 
       
     </nav>
@@ -104,7 +104,7 @@
       
         <div class="search">
           <div class="search-input-wrap">
-            <input type="text" id="search-input" class="search-input" tabindex="0" placeholder="Search Computing Fundamentals & Programming CE" aria-label="Search Computing Fundamentals & Programming CE" autocomplete="off">
+            <input type="text" id="search-input" class="search-input" tabindex="0" placeholder="Search Computing Fundamentals And Programming" aria-label="Search Computing Fundamentals And Programming" autocomplete="off">
             <label for="search-input" class="search-label"><svg viewBox="0 0 24 24" class="search-icon"><use xlink:href="#svg-search"></use></svg></label>
           </div>
           <div id="search-results" class="search-results"></div>
@@ -133,7 +133,7 @@
       
       <div id="main-content" class="main-content" role="main">
         
-          <link rel="stylesheet" href="/assets/css/style.css" />
+          <link rel="stylesheet" href="/assets/css/attendance.css" />
       <h1 id="attendance">
         
         
@@ -144,25 +144,39 @@
     
 
 <ol>
-  <li><span class="text-green-200">Green for those Students having 100% Attendance</span></li>
+  <li><span class="text-green-200">Green for those students having 100% Attendance</span></li>
   <li><span class="text-yellow-200">Yellow for those students that can be terminated if they don’t improve their attendance</span></li>
-  <li><span class="text-red-200">Red for Terminated Students</span></li>
+  <li><span class="text-red-200">Red for students not fullfilling the attendance requirements.</span></li>
 </ol>
+      <h2>
+        
+        
+           Please Enter Your Roll No. 
+        
+        
+      </h2>
+    
+<div class="mt-3">
+<input type="text" id="stdRollNumber" class="inputFieldStyle" />
+<button onclick="getUserRollNumber()" class="btn btn-outline h6" style="box-shadow: 0 1px 2px rgb(0 0 0 / 12%), 0 3px 10px rgb(0 0 0 / 8%);">Search</button>
+</div>
+<p id="errorMsg" style="color: red"></p>
 
 <div class="announcement">
-  <ul style="list-style-type: none;" id="ul_container">
-<li style="border-bottom: 1px solid #ede7e7; padding-bottom: 6px; margin-bottom: 6px">
-<div style="display: flex;"> 
-<div style="flex-basis: 25%"> <b>Registration No.</b> </div>
-<div style="flex-basis: 25%"> <b>Name</b> </div>
-<div style="flex-basis: 25%"> <b>Theory Attendance</b> </div>
-<div style="flex-basis: 25%"> <b>Lab Attendance</b> </div>
+  <ul id="ul_container">
+<li class="liStyle">
+<div class="d-flex">
+<div class="width33"> <b>Registration No.</b> </div>
+<div class="width33"> <b>Theory Attendance</b> </div>
+<div class="width33"> <b>Lab Attendance</b> </div>
 </div>
 </li>
 </ul>
 </div>
+<div class="announcement" id="card_container">
+</div>
 
-<div class="loader" id="loader"></div>
+<div id="loader"></div>
 
 <script src="/assets/js/attendance.js">
 </script>

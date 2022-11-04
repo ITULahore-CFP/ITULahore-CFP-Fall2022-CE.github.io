@@ -30,7 +30,7 @@ function createContent(item, container) {
     stafferDiv.classList.add("staffer");
 
     const divContainer = 
-    `<img class="staffer-image" src="/assets/images/staff/${item.image ? item.image : "placeholder.jpg"}" alt="user-image">
+    `<img class="staffer-image" src="/assets/images/staff/${item.image ? item.image : "placeholder.jpeg"}" alt="user-image">
     <div>
         <h3 class="staffer-name">
             ${item.name}

@@ -1,4 +1,3 @@
-//url contains applink share through app script deployment
 const url = 'https://script.google.com/macros/s/AKfycbzaNA8x0tTlm6gYDMC9V3SdQG66uiVxZEXi3xfATzbyrBx5RpkvZ6Sd6ZvLCankKDjQtg/exec';
 const sheet = "week_data";
 const loading = document.getElementById("loader");
@@ -14,9 +13,11 @@ function loadData() {
     })
 }
 function mapThroughData(data) {
-    console.log("data inside mapThroughData 23:::", data)
-    data.map(item => {
+    // console.log("data inside mapThroughData 23:::", data)
+    data.reverse().map(item => {
+        if (item.visible == "y"){
         createContent(item)
+        }
     })
 }
 function createContent(item) {
